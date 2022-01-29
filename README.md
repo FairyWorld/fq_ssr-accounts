@@ -10,9 +10,9 @@
 
 ##### SS太容易被GFW识别屏蔽，请朋友们改用V2RAY。用V2Ray客户端扫描正文二维码，将allowInsecure（允许不安全）选项改为true 即可使用：
 
-##### 6月28日更新
+##### 1月29日更新
 
-<img src="http://gfw-breaker.win/videos/imgs/v2ray-2.png" width="400px"/>
+<img src="https://raw.githubusercontent.com/gfw-breaker/ssr-accounts/master/resources/v2ray0129.png" width="400px"/>
 
 ---
 
