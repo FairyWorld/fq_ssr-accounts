@@ -12,7 +12,7 @@
 
 ##### 1月29日更新
 
-<img src="https://raw.githubusercontent.com/gfw-breaker/ssr-accounts/master/resources/v2ray0129.png" width="400px"/>
+<img src="https://raw.githubusercontent.com/gfw-breaker/ssr-accounts/master/resources/free01-0514.png" width="400px"/>
 
 ---
 
