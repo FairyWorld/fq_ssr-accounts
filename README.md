@@ -1,10 +1,10 @@
 # V2Ray 免费账号（速度比SS块，且不易被封锁）
 
-##### [免翻墙观看油管热门视频](http://78.141.203.199:81/youtube.html) &nbsp;|&nbsp; [苹果手机使用无界VPN翻墙](https://github.com/gfw-breaker/nogfw/blob/master/docs/iphone_u.md)
+##### [免翻墙观看油管热门视频](http://45.76.133.126:81/youtube.html) &nbsp;|&nbsp; [苹果手机使用无界VPN翻墙](https://github.com/gfw-breaker/nogfw/blob/master/docs/iphone_u.md)
 
 ---
 
-##### [各类禁书下载](http://78.141.203.199:10000/bbooks/) 
+##### [各类禁书下载](http://45.76.133.126:10000/bbooks/) 
 
 ---
 
